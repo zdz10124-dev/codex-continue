@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+logs/
+state.json
+CodexContinue.exe
+*.log
